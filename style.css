@@ -27,11 +27,11 @@
   display: block;
 }
 
-.dropdown-content a:hover {background-color: #16dabf;}
+.dropdown-content a:hover {background-color: #f14949;}
 
 .dropdown:hover .dropdown-content {display: block;}
 
-.dropdown:hover .dropbtn {background-color: #03b69e;}
+.dropdown:hover .dropbtn {background-color: #d449f1;}
 
 body {
   background-image: url("background.png");
