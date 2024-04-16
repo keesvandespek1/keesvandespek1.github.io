@@ -34,7 +34,7 @@
   .dropdown:hover .dropbtn {background-color: #d449f1;}
   
   body {
-    background-image: url("background.jpeg");
+    background-image: url("background.jpg");
     height: 100%;
     background-size: 2500px;
     background-repeat: no-repeat;
