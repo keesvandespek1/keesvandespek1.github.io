@@ -1,0 +1,28 @@
+<!DOCTYPE html> <!--dit is de homepage van mijn website-->
+<html> <!--dit is het eerste html element-->
+<head>
+    <title>Het eerste begin</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="opmaak.css">
+</head>
+<body>
+    een telefoon heeft eigenlijk drie belangrijke onderdelen die samenwerken. Dit noemen we het 3-lagenmodel. Het is net als een taart met drie lagen, maar dan voor je telefoon.
+
+    Als eerste heb je de hardware-laag. Dit is het fysieke spul, dus de batterij, het scherm, de knoppen en de camera's. Het is eigenlijk alles wat je kunt zien en aanraken. De hardware is als het ware het lichaam van je telefoon, de basis waar alles op draait.
+    
+    Dan hebben we de software-laag. Dit is het 'denkwerk' van je telefoon. Hier zit het besturingssysteem, zoals Android of iOS, en de apps die je gebruikt, zoals WhatsApp of Instagram. De software zorgt ervoor dat alles goed georganiseerd is en dat je de telefoon kunt gebruiken zoals je dat wilt.
+    
+    Als laatste is er de netwerk-laag. Dit zorgt ervoor dat je telefoon verbinding kan maken met het internet en met andere telefoons. Dus als je wilt bellen, internetten of een berichtje wilt sturen, dan regelt deze laag dat voor je. Het is als de 'lijn' die ervoor zorgt dat je altijd online bent.
+    
+    Dus, samengevat: de hardware is het fysieke deel van je telefoon, de software zorgt voor het 'denkwerk', en het netwerk zorgt ervoor dat je verbonden blijft. Alle drie de lagen werken samen om ervoor te zorgen dat je telefoon doet wat je wilt en dat je altijd online bent. Cool toch?    
+
+    
+    <ul> <li><a href="index.html">Home</a></li>
+        <li><a href="binairstelsel.html">Binair stelsel</a></li>
+        <li><a href="kleurmodellen.html">kleurmodellen</a></li>
+        <li><a href="3Lagenmodel.html">3Lagenmodel</a></li>
+    </ul> 
+
+    <img src="lagenmodel_+smartphone.jpg" alt="dit is mijn eerste foto">
+</body>
+</html>
